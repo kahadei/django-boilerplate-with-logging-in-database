@@ -56,5 +56,4 @@ Screenshot
 
 Thanks
 -------
-Logger inspired by:
-.. _django-db-logger: https://travis-ci.org/CiCiUi/django-db-logger
+Logger inspired by: https://travis-ci.org/CiCiUi/django-db-logger
