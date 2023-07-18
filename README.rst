@@ -1,5 +1,5 @@
 ================
-Django boilerplate with logging in separate database(for small projects)
+Django git remote add origin https://github.com/kahadei/django-boilerplate-with-logging-in-database.git(for small projects)
 ================
 
 
@@ -34,7 +34,7 @@ Quick start
 
 
 ================
-Screenshot
+Logger usege
 ================
 .. code-block:: python
 
@@ -50,9 +50,9 @@ Screenshot
         db_logger.exception(e)
 
 ================
-Logger usege
+Screenshot
 ================
-
+.. image:: Screenshot.png
 
 Thanks
 -------
