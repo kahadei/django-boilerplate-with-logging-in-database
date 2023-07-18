@@ -1,5 +1,5 @@
 ================
-Django git remote add origin https://github.com/kahadei/django-boilerplate-with-logging-in-database.git(for small projects)
+Django boilerplate with logging in separate database(for small projects)
 ================
 
 
